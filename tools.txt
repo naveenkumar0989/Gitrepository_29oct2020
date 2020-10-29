@@ -1,5 +1,5 @@
 Tools files details about devops tools :
-Git hub and Git
+Git and Git Hub
 Maven
 Jenkins
 Nexus
