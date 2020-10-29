@@ -3,5 +3,6 @@ Git
 Maven
 Jenkins
 Nexus
+SonarQube
 Docker
 K8
