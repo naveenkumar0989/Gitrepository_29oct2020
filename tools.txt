@@ -1,0 +1,7 @@
+Tools files details about devops tools :
+Git
+Maven
+Jenkins
+Nexus
+Docker
+K8
